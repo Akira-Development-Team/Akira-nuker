@@ -68,9 +68,6 @@ This repository is a **fork/derivative** of the original `Void-Nuke` Discord too
     - Resolves guilds from `VOIDNUKE_SERVERS`.
     - If `VOIDNUKE_ACTION` is set, runs that action on all matching guilds and exits **without showing menus**.
 
-- `README_VOID_FORK.md`  
-  Lower-level notes focused on the fork-specific changes; this `README.md` is the main GitHub-facing documentation.
-
 Other files and assets (artwork, original menu, etc.) come from the upstream Void-Nuke project.
 
 ---
